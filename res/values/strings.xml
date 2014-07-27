@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">TextViewEllipsizeEndFixed</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="test"  formatted="false">
+		1),1234567890\n2),1234567890\n3),1234567890||奥巴牛奥巴牛奥巴牛奥巴牛奥巴牛奥巴牛奥巴牛奥巴牛
+    </string>
+
+</resources>
